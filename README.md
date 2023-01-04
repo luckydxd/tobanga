@@ -11,9 +11,6 @@
 
 1. **Clone Repository**
 
-```bash
-git clone https://github.com/fikrisuheri/laravel-toko-online-anime-store.git
-cd laravel-toko-online-anime-store
 composer install
 cp .env.example .env
 ```
