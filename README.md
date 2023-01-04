@@ -11,6 +11,7 @@
 
 1. **Clone Repository**
 
+```bash
 composer install
 cp .env.example .env
 ```
